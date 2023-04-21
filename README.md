@@ -1,2 +1,2 @@
 # Basics_JavaScript_Projects
-In this repo I have completed basics javascript Project
+In this repo have completed basics javascript Project
