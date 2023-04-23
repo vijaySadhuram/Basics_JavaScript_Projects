@@ -1,2 +1,2 @@
-# Basics_JavaScript_Projects
+# Para Generator
 In this repo have completed basics javascript Project
