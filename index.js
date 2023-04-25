@@ -23,15 +23,9 @@ const RandomgenerateWord=(numOfword)=>{
  
 }
 
-// console.log(RandomgenerateWord(0));
-
 const input=document.getElementById("numOfword");
 console.log(input);
 
-// // console.log(Math.);
-// // console.log(input);
-// // const tag=document.createElement("p");
-// // document.querySelector(".myPara").append(tag)
 total=" ";
 const getPara=()=>{
     const Num=Number(input.value);
